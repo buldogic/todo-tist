@@ -22,7 +22,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "preinstall": "nvm use 14",
+    "preinstall": "nvm install 14",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
