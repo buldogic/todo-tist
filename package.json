@@ -27,7 +27,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "OPENSSL_LEGACY_PROVIDER=1 npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "homepage": "https://buldogic.github.io/todo-tist/"
   },
